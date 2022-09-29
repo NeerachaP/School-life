@@ -1,0 +1,53 @@
+body{
+background-color:#F5EDDC;
+text-align: center;
+    }
+.Face{
+border-style: solid;
+border-color: #ECB390;
+border-width: 20px;
+border-radius: 100px;
+/* margin-right: 50%;
+margin-left: 20%; */
+      }
+p{
+font-size: 25px;
+ }
+.Gallery{
+  font-size: 80px;
+  color: #ECB390;
+  /* border-style: solid;
+  padding-top: 150px;
+  padding-bottom: 55px; */
+     }
+.Heading{
+  font-size: 80px;
+  padding-top: 50px;
+  color: #495C83
+     }
+.pic{
+  background-color:#ECB390;
+    }
+.Friends{
+  height: 400px;
+  width: 600px;
+    }
+.ff2{
+  height: 400px;
+  width: 600px;
+}
+.ma{
+  height: 400px;
+  width:600px;
+}
+.yoyo{
+  height: 400px;
+  width:600px;
+}
+.winnie{
+  height: 600px;
+  width:700px;
+}
+.friend{
+  height: 400px;
+  width:600px;
